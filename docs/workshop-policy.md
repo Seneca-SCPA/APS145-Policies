@@ -21,7 +21,7 @@ description: Grading policies for workshops
 
 - It is **minimally expected the group will work together to form a solution and further test, refine, and enhance all logic to create an overall uniform cohesive solution.**
 - The group solution is due by the **end of the class for the assigned workshop week** (unless otherwise instructed by your professor).
-- **The full name of all CONTRIBUTING members** MUST be stated at the top of all physical pages.
+- **The full name of all CONTRIBUTING members** MUST be stated at the top of all electronic/physical pages.
   - List **only the members who actually contributed** towards your group solution.
 
     :::warning WARNING
