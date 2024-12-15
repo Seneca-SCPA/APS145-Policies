@@ -13,7 +13,7 @@ description: Grading policies for workshops
 
 ## Workshops
 
-- Every student **MUST** actively contribute towards the workshop solution.
+- Every student **MUST** be present in-class and actively contribute towards the workshop solution.
 - Members who do not actively contribute towards the workshop solution will receive a **ZERO grade for the workshop**
 - Members who receive a zero grade for the workshop, will **NOT count towards a completed workshop**
 
