@@ -13,17 +13,17 @@ Each group has **TWO SUB-GROUPS** determined by the assigned member number
 
 This sub-group is comprised of **members 1-3**
 
-- **Member-1**: Responsible for doing workshop **Logic 1**
-- **Member-2**: Responsible for doing workshop **Logic 2**
-- **Member-3**: Responsible for doing workshop **Logic 3**
+- **Member-1**
+- **Member-2**
+- **Member-3**
 
 ## Sub-Group 2
 
 This sub-group is comprised of **members 4-6**
 
-- **Member-4**: Responsible for doing workshop **Logic 1**
-- **Member-5**: Responsible for doing workshop **Logic 2**
-- **Member-6**: Responsible for doing workshop **Logic 3**
+- **Member-4**
+- **Member-5**
+- **Member-6**
 
 ## Pseudo Code or Flowchart?
 
