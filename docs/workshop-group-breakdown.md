@@ -31,12 +31,12 @@ This sub-group is comprised of **members 4-6**
 
 Workshops: **1, 3, 5, 7, and 9**
 
-- **Members 1-3** will need to produce a **PSEUDO CODE** solution
-- **Members 4-6** will need to produce a **FLOWCHART** solution
+- **Sub-Group 1:** (Members 1-3) will need to produce a **PSEUDO CODE** solution
+- **Sub-Group 2:** (Members 4-6) will need to produce a **FLOWCHART** solution
 
 ### EVEN Number Workshops
 
 Workshops: **2, 4, 6, 8, and 10**
 
-- **Members 1-3** will need to produce a **FLOWCHART** solution
-- **Members 4-6** will need to produce a **PSEUDO CODE** solution
+- **Sub-Group 1:** (Members 1-3) will need to produce a **FLOWCHART** solution
+- **Sub-Group 2:** (Members 4-6) will need to produce a **PSEUDO CODE** solution

@@ -5,33 +5,30 @@ sidebar_position: 2
 description: Grading policies for workshops
 ---
 
-# Workshop Promotion Policy
-
-- One of the criteria to be eligible to pass the APS145 course is to **complete a set minimum number of workshops**. Please consult your course **ADDENDA** for details. If you complete more than the minimum, your best top minimum number will be used in the calculation of your overall workshops grade
-- You must submit a minimum of one presentation
-- Workshop group solutions and presentations will be evaluated using the **published workshop rubrics** - see the posted rubrics on your course management system (Blackboard)
+# Workshop Grading Policy
 
 ## Workshops
 
 - Every student **MUST** be present in-class and actively contribute towards the workshop solution.
 - Members who do not actively contribute towards the workshop solution will receive a **ZERO grade for the workshop**
-- Members who receive a zero grade for the workshop, will **NOT count towards a completed workshop**
 
 ### Sub-Group Solution
 
 - It is **minimally expected the group will work together to form a solution and further test, refine, and enhance all logic to create an overall uniform cohesive solution.**
 - The group solution is due by the **end of the class for the assigned workshop week** (unless otherwise instructed by your professor).
 - **The full name of all CONTRIBUTING members** MUST be stated at the top of all electronic/physical pages.
+
   - List **only the members who actually contributed** towards your group solution.
 
     :::warning WARNING
     Members who simply "attend" but do nothing should not receive credit!
 
     Active contribution is achieved when all members **interact** during the:
+
     - creation of the solution
     - applying refinements
     - testing the logic
-    :::
+      :::
 
 - If not submitted on-time, a **ZERO grade** will be applied for the workshop
 - If the submitted solution is merely thrown together with no effort to provide a seamless overall solution, a **ZERO grade** will be applied for the workshop.
@@ -41,7 +38,7 @@ description: Grading policies for workshops
 :::important NOTE
 Do you have missing members or members who did not contribute?
 
-It is still the **responsibility of the GROUP** to provide a **FULL SOLUTION** which may require extra effort to compensate for the lack of help from other members. In these situations, a minimum **10% bonus** will be applied (per missing/non-contributing member).
+It is still the **responsibility of the GROUP** to provide a **FULL SOLUTION** which may require extra effort to compensate for the lack of help from other members. In these situations, a minimum **10% bonus** will be applied (per missing/non-contributing member based on a 3-person group size).
 :::
 
 ## Video Presentation
