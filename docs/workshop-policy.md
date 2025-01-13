@@ -28,7 +28,8 @@ description: Grading policies for workshops
     - creation of the solution
     - applying refinements
     - testing the logic
-      :::
+
+    :::
 
 - If not submitted on-time, a **ZERO grade** will be applied for the workshop
 - If the submitted solution is merely thrown together with no effort to provide a seamless overall solution, a **ZERO grade** will be applied for the workshop.
