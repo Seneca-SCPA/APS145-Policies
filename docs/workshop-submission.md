@@ -14,7 +14,6 @@ toc_max_heading_level: 6
 :::warning IMPORTANT
 
 - In order for your work to be graded, you **MUST follow the below directions EXACTLY**.
-
 - Failure to follow the below directions, will result in **ungraded work** and a **ZERO grade be applied**!
   :::
 
