@@ -12,10 +12,12 @@ toc_max_heading_level: 6
 **Video presentations** must be **emailed to your instructor**. Depending on your professor, you may also be submitting your **sub-group solutions** via email as well.
 
 :::warning IMPORTANT
+Do you want your work graded?
 
 - In order for your work to be graded, you **MUST follow the below directions EXACTLY**.
 - Failure to follow the below directions, will result in **ungraded work** and a **ZERO grade be applied**!
-  :::
+
+:::
 
 ## Email SUBJECT Line
 
